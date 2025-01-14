@@ -49,7 +49,7 @@ def train_random_forest(X_train, y_train, X_test, y_test):
     
     y_pred = model.predict(X_test)
     
-    print("\nRandom Forest Regressor:")
+    print("\nRandom Forest Regressor::")
     print(f"RMSE: {np.sqrt(mean_squared_error(y_test, y_pred))}")
     print(f"R2 Score: {r2_score(y_test, y_pred)}")
 
