@@ -1,3 +1,1 @@
-> Car_Price_Prediction_ML_Based
-
-> _Phase #1_ 
+![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=9823f5&height=150&section=header)
